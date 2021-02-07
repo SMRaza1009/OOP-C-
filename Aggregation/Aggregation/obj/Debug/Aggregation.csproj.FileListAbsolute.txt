@@ -1,0 +1,6 @@
+F:\BSCS\Semester 6\DP\Assignment-1\Aggregation\Aggregation\bin\Debug\Aggregation.exe.config
+F:\BSCS\Semester 6\DP\Assignment-1\Aggregation\Aggregation\bin\Debug\Aggregation.exe
+F:\BSCS\Semester 6\DP\Assignment-1\Aggregation\Aggregation\bin\Debug\Aggregation.pdb
+F:\BSCS\Semester 6\DP\Assignment-1\Aggregation\Aggregation\obj\Debug\Aggregation.csprojResolveAssemblyReference.cache
+F:\BSCS\Semester 6\DP\Assignment-1\Aggregation\Aggregation\obj\Debug\Aggregation.exe
+F:\BSCS\Semester 6\DP\Assignment-1\Aggregation\Aggregation\obj\Debug\Aggregation.pdb

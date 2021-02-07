@@ -1,0 +1,6 @@
+F:\BSCS\Semester 6\DP\Assignment-1\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+F:\BSCS\Semester 6\DP\Assignment-1\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+F:\BSCS\Semester 6\DP\Assignment-1\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+F:\BSCS\Semester 6\DP\Assignment-1\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+F:\BSCS\Semester 6\DP\Assignment-1\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+F:\BSCS\Semester 6\DP\Assignment-1\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
